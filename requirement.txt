@@ -1,0 +1,8 @@
+pandas
+matplotlib
+argparse
+numpy
+tensorflow
+typing
+sklearn
+opencv-python
